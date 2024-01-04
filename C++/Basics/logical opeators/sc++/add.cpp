@@ -19,5 +19,17 @@ int main()
     n=~b;
 
 
-    cout<<c<<d<<e<<f<<g<<h<<i<<j<<k<<l<<m<<n;
+    cout<<c<<"\n";
+    cout<<d<<"\n";
+    cout<<e<<"\n";
+    cout<<f<<"\n";
+    cout<<g<<"\n";
+    cout<<h<<"\n";
+    cout<<i<<"\n";
+    cout<<j<<"\n";
+    cout
+    <<k<<"\n";
+    cout<<l<<"\n";
+    cout<<m<<"\n";
+    cout<<n<<"\n";
 }
