@@ -59,6 +59,17 @@
     fifth->next = NULL;
 
     linkedlistTraversal(head);
+    
+    struct Node*ptr = head;
+    int sum = 0;
+    while(ptr!=NULL)
+    {
+      sum = sum + ptr->data;
+      ptr = ptr->next;
+    }
+    printf("The sum of elements is %d\n",sum);
+    
+
 
     return 0;
   }
