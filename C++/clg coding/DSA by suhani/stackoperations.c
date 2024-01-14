@@ -21,7 +21,7 @@ struct stack{
     if(ptr->top == -1)
      return 1;
 
-     else6
+     else
      return 0;
 
  }
