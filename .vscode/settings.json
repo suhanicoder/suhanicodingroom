@@ -2,6 +2,11 @@
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",
-        "iterator": "cpp"
+        "iterator": "cpp",
+        "*.tcc": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c"
     }
 }
